@@ -15,7 +15,7 @@
 
 ### 🌍 Connect with me:
 <p align="left">
-<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/deepakd4/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/deepakd4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
 
 <a href="mailto:deepak2021sahu@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" height="30" width="30" /></a>
 </p>
